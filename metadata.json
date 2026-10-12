@@ -1,0 +1,6 @@
+{
+  "name": "StarVibe",
+  "description": "StarVibe - Connect • Chat • Party • Shine. Premium voice party rooms, VIP perks, games, rankings, wallet, and luxury social experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
